@@ -2,3 +2,4 @@
 %project=cims
 %uri=https://github.com/dariuszpiwowarski/cims
 
+ddl/companies 2022-03-30T12:07:55Z Dariusz Piwowarski <piwowarskidariusz@gmail.com> # Creates table to track companies
